@@ -1,10 +1,10 @@
-### Blog-Api-With-Django-Rest-Framework
-*Company*: CODTECH IT SOLUTIONS
-*NAME*: ANIL KUMAR SINGH
-*INTERN ID*: CT06DA413
-*DOMAIN*: BACK END DEVELOPMENT
-*DURATION*: 6 WEEKS
-*MENTOR*: NEELA SANTOSH
+# Blog-Api-With-Django-Rest-Framework
+# *Company*: CODTECH IT SOLUTIONS
+# *NAME*: ANIL KUMAR SINGH
+# *INTERN ID*: CT06DA413
+# *DOMAIN*: BACK END DEVELOPMENT
+# *DURATION*: 6 WEEKS
+# *MENTOR*: NEELA SANTOSH
 
 ![Blog API with Django Rest Framework Logo](https://cfe-static.s3.amazonaws.com/media/blog-api-django-rest-framework/images/blog_api_cfe.png)
 
